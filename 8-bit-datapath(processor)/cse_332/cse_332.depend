@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1523785584 source:c:\users\user\desktop\cse_332_complete_project\cse_332\main.cpp
+	<bits/stdc++.h>
+	<iostream>
+	<sstream>
+	<string>
+	"R_type.cpp"
+	"I_type.cpp"
+
+1523728773 c:\users\user\desktop\cse_332_complete_project\cse_332\r_type.cpp
+	"R_type.h"
+
+1523728835 c:\users\user\desktop\cse_332_complete_project\cse_332\r_type.h
+	<bits/stdc++.h>
+
+1523785529 c:\users\user\desktop\cse_332_complete_project\cse_332\i_type.cpp
+	"I_type.h"
+
+1523728706 c:\users\user\desktop\cse_332_complete_project\cse_332\i_type.h
+	<bits/stdc++.h>
+
+1523835986 source:c:\users\faizu\desktop\project final\cse_332\main.cpp
+	<bits/stdc++.h>
+	<iostream>
+	<sstream>
+	<string>
+	"R_type.cpp"
+	"I_type.cpp"
+
+1523779174 c:\users\faizu\desktop\project final\cse_332\r_type.cpp
+	"R_type.h"
+
+1523779236 c:\users\faizu\desktop\project final\cse_332\r_type.h
+	<bits/stdc++.h>
+
+1523835930 c:\users\faizu\desktop\project final\cse_332\i_type.cpp
+	"I_type.h"
+
+1523779108 c:\users\faizu\desktop\project final\cse_332\i_type.h
+	<bits/stdc++.h>
+

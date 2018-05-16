@@ -1,0 +1,15 @@
+la $s3
+slt $ac, $s2
+sub $s3, $s3
+addi $s3, 1
+beq $s3,3
+sub $s3, $s3
+addi $s3, 2
+sub $s1, $s3
+disp $s1
+addi $s1,0
+addi $s1,0
+addi $s1,0
+addi $s1,0
+addi $s1,2
+disp $s1
